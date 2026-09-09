@@ -4,7 +4,7 @@
 
 ## Le binôme
 
-| Prénom NOM     | Identifiant Git | Groupe |
+|Prénom NOM      | Identifiant Git | Groupe |
 |------------    |-----------------|--------|
 |Émeline VANLEENE|Laweda           |Dev web |
 
