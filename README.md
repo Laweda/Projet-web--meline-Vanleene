@@ -7,7 +7,6 @@
 | Prénom NOM     | Identifiant Git | Groupe |
 |------------    |-----------------|--------|
 |Émeline VANLEENE|Laweda           |Dev web |
-|                |                 |        |
 
 ### Répartition du travail
 
