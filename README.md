@@ -8,12 +8,6 @@
 |------------    |-----------------|--------|
 |Émeline VANLEENE|Laweda           |Dev web |
 
-### Répartition du travail
-
-_Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
-
-- Émeline VANLEENE
-
 ## Le festival
 
 - **Thème :**
