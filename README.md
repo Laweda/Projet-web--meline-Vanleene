@@ -4,23 +4,22 @@
 
 ## Le binôme
 
-| Prénom NOM | Identifiant Git | Groupe |
-|------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+| Prénom NOM     | Identifiant Git | Groupe |
+|------------    |-----------------|--------|
+|Émeline VANLEENE|Laweda           |Dev web |
+|                |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- Émeline VANLEENE
 
 ## Le festival
 
 - **Thème :**
 - **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Blind test envisagé :** audio / vidéo — sur quoi ? (idée d'évènement sur le site : il faut qu'il se passe qql chose)
 
 ## Lancer le projet
 
